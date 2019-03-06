@@ -26,9 +26,8 @@ https://i.imgur.com/vjjUP3n.png
 ## Goal of Project
 The goal of this project is to demonstrate my proficiency with Node and MySql.
 
-##Author
-Sharita Cummings
-
 ## Contributing
+The author of this application is Sharita Cummings
+
 Pull requests are welcome.  Please make sure to update tests as appropriate.
 
